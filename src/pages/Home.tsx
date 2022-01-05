@@ -1,11 +1,11 @@
 import React from 'react';
 
-function PageICBC() {
+function Home() {
   return (
     <div>
-        ICBC LAW
+        HOME
     </div>
   );
 }
 
-export default PageICBC;
+export default Home;

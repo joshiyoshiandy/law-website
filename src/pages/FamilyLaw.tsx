@@ -1,6 +1,6 @@
 import React from 'react';
 
-function PageFamilyLaw() {
+function FamilyLaw() {
   return (
     <div>
         FAMILY LAW
@@ -8,4 +8,4 @@ function PageFamilyLaw() {
   );
 }
 
-export default PageFamilyLaw;
+export default FamilyLaw;

@@ -1,11 +1,11 @@
 import React from 'react';
 
-function PageAbout() {
+function ImmLaw() {
   return (
     <div>
-        ABOUT
+        IMMIGRATION LAW
     </div>
   );
 }
 
-export default PageAbout;
+export default ImmLaw;
