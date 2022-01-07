@@ -1,7 +1,7 @@
 import React from 'react';
 import Container from 'react-bootstrap/Container';
 
-import { firmInfo } from '../data/data';
+import { firmInfo } from '../data/info';
 
 function Contact() {
   return (
