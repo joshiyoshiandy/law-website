@@ -1,5 +1,6 @@
 {
-  "name": "law-website",
+  "name": "joshilawyers",
+  "homepage": "http://joshilawyers.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

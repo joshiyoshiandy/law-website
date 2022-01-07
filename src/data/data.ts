@@ -1,8 +1,8 @@
 export const firmInfo = {
     name: 'Joshi Lawyers',
-    telephone: '604-593-7778',
-    fax: '604-593-7790',
-    email: 'info@joshilawyers.com',
+    telephone: '1-604-593-7778',
+    fax: '1-604-593-7790',
+    email: 'reception.joshilawyers@gmail.com',
     address: '209-8028 128 St',
     city: 'Surrey',
     province: 'BC',

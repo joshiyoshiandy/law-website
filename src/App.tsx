@@ -7,6 +7,7 @@ import Home from './pages/Home';
 import ICBC from './pages/ICBC';
 import ImmLaw from './pages/ImmLaw';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import BottomBar from './components/BottomBar';
 
 class App extends Component {
   render() {
@@ -22,7 +23,7 @@ class App extends Component {
             <Route path="/icbc-claims" element={<ICBC />} />
             <Route path="/immigration-law" element={<ImmLaw />} />
           </Routes>
-
+          <BottomBar/>
         </div >
       </BrowserRouter>
     );
